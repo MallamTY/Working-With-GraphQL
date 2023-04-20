@@ -1,0 +1,15 @@
+{
+  "name": "working-with-graphql",
+  "version": "1.0.0",
+  "description": "First project with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MallamTY",
+  "license": "ISC",
+  "dependencies": {
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
+}
